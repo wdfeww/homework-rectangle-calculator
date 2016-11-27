@@ -1,0 +1,27 @@
+  .content{
+      display:table;
+      margin:0 auto;
+      padding:15px;
+      text-align:center;
+      background-color:#80ff80;
+  }
+  .form-group{
+      padding:2px 0px;
+  }
+  .form-subgroup{
+      display:inline-block;
+      
+  }
+   p{
+      font-family:Arial, sands-serif;
+      font-size:20px;
+      color:white;
+      text-shadow: 2px 2px 3px #006dcc;
+      text-align:left;
+  }
+  .warning{
+      color:red !important;
+  }
+  .default{
+      color:#006dcc !important;  
+  }
